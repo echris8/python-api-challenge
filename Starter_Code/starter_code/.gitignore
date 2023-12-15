@@ -1,0 +1,5 @@
+# Ignore API key files
+api_keys.py
+
+# Ignore configuration files that might contain keys
+config/*
